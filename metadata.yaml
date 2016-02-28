@@ -1,0 +1,37 @@
+_repo: The-Pleasures-of-Life_7952
+creator:
+  author:
+    agent_name: Lubbock, John, Sir
+    aliases:
+    - Lubbock, John, Baron Avebury
+    - Lubbock, Sir John
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '2588'
+    url: http://www.gutenberg.org/2009/agents/2588
+    wikipedia: http://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury
+description: pt. 1. The duty of happiness ; The happiness of duty ; A song of books
+  ; The choice of books ; The blessing of friends ; The value of time ; The pleasures
+  of travel ; The pleasures of home ; Science ; Education -- pt. 2 .Ambition ; Wealth
+  ; Health ; Love ; Art ; Poetry ; Music ; The beauties of nature ; The troubles of
+  life ; Labour and rest ; Religion ; The hope of progress ; The destiny of man.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcsh 'Pleasure'
+- !lcc 'BJ'
+tableOfContents: The duty of happiness -- The happiness of duty -- A song of books
+  -- The choice of books -- The blessing of friends -- The value of time -- The pleasures
+  of travel -- The pleasures of home -- Science -- Education -- Ambition -- Wealth
+  -- Health -- Love -- Art -- Poetry -- Music -- The beauties of nature -- The troubles
+  of life -- Labour and rest -- Religion -- The hope of progress -- The destiny of
+  man.
+title: The Pleasures of Life
+url: http://www.gutenberg.org/ebooks/7952
